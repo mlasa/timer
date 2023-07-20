@@ -1,0 +1,16 @@
+C:\Users\marce\Desktop\cronometro\bin\Debug\net5.0\Cronometro.exe
+C:\Users\marce\Desktop\cronometro\bin\Debug\net5.0\Cronometro.deps.json
+C:\Users\marce\Desktop\cronometro\bin\Debug\net5.0\Cronometro.runtimeconfig.json
+C:\Users\marce\Desktop\cronometro\bin\Debug\net5.0\Cronometro.runtimeconfig.dev.json
+C:\Users\marce\Desktop\cronometro\bin\Debug\net5.0\Cronometro.dll
+C:\Users\marce\Desktop\cronometro\bin\Debug\net5.0\Cronometro.pdb
+C:\Users\marce\Desktop\cronometro\obj\Debug\net5.0\Cronometro.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\cronometro\obj\Debug\net5.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\cronometro\obj\Debug\net5.0\Cronometro.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\cronometro\obj\Debug\net5.0\Cronometro.AssemblyInfo.cs
+C:\Users\marce\Desktop\cronometro\obj\Debug\net5.0\Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\cronometro\obj\Debug\net5.0\Cronometro.dll
+C:\Users\marce\Desktop\cronometro\obj\Debug\net5.0\refint\Cronometro.dll
+C:\Users\marce\Desktop\cronometro\obj\Debug\net5.0\Cronometro.pdb
+C:\Users\marce\Desktop\cronometro\obj\Debug\net5.0\Cronometro.genruntimeconfig.cache
+C:\Users\marce\Desktop\cronometro\obj\Debug\net5.0\ref\Cronometro.dll
